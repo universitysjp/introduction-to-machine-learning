@@ -22,5 +22,5 @@ Outline
 - Logistic Regression baseline
 
 Next steps
-- Trees and ensembles: [trees and ensembles](../trees-and-ensembles)
-- Overfitting and regularization: [regularization and overfitting](../regularization-and-overfitting)
+- Trees and ensembles: [trees and ensembles](./trees-and-ensembles)
+- Overfitting and regularization: [regularization and overfitting](./regularization-and-overfitting)

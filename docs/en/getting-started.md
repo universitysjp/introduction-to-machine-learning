@@ -32,5 +32,5 @@ Datasets
 - Iris (with missing values for cleaning practice): [Iris for cleaning.csv](https://github.com/universitysjp/introduction-to-machine-learning/blob/main/data/Iris%20for%20cleaning.csv)
 
 Next steps
-- Continue to: [data preprocessing](../data-preprocessing)
-- Or jump to: [classification](../classification)
+- Continue to: [data preprocessing](./data-preprocessing)
+- Or jump to: [classification](./classification)

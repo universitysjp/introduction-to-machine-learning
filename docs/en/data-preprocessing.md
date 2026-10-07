@@ -24,5 +24,5 @@ Tips
 - Track which columns are imputed
 
 Next steps
-- Move to classification with Iris: [classification](../classification)
-- Or read more: [regularization and overfitting](../regularization-and-overfitting)
+- Move to classification with Iris: [classification](./classification)
+- Or read more: [regularization and overfitting](./regularization-and-overfitting)
