@@ -11,7 +11,7 @@ What you'll learn
 
 Hands-on notebook
 - Read the code below: [data-cleaning.ipynb](#data-cleaning-notebook-code)
-- Open: [data-cleaning.ipynb](https://github.com/universitysjp/introduction-to-machine-learning/blob/main/notebooks/data-cleaning.ipynb)
+- Run the original notebook from the module's [notebooks folder on GitHub](https://github.com/universitysjp/introduction-to-machine-learning/tree/main/notebooks)
 - Data used: [Iris for cleaning.csv](https://github.com/universitysjp/introduction-to-machine-learning/blob/main/data/Iris%20for%20cleaning.csv)
 
 Key steps covered
@@ -29,7 +29,7 @@ Next steps
 
 ## Data-cleaning notebook code
 
-The code cells below are also available in the original [data-cleaning.ipynb](https://github.com/universitysjp/introduction-to-machine-learning/blob/main/notebooks/data-cleaning.ipynb) notebook.
+The code cells below are included in the original `data-cleaning.ipynb` notebook in the module's [notebooks folder on GitHub](https://github.com/universitysjp/introduction-to-machine-learning/tree/main/notebooks).
 
 ```python
 import numpy as np

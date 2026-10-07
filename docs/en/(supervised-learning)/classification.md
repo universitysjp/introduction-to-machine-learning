@@ -11,7 +11,7 @@ What you'll learn
 
 Hands-on notebook
 - Read the code below: [iris-data-for-beginners.ipynb](#iris-classification-notebook-code)
-- Open: [iris-data-for-beginners.ipynb](https://github.com/universitysjp/introduction-to-machine-learning/blob/main/notebooks/iris-data-for-beginners.ipynb)
+- Run the original notebook from the module's [notebooks folder on GitHub](https://github.com/universitysjp/introduction-to-machine-learning/tree/main/notebooks)
 - Data: [Iris.csv](https://github.com/universitysjp/introduction-to-machine-learning/blob/main/data/Iris.csv)
 
 Outline
@@ -27,7 +27,7 @@ Next steps
 
 ## Iris classification notebook code
 
-The code cells below are also available in the original [iris-data-for-beginners.ipynb](https://github.com/universitysjp/introduction-to-machine-learning/blob/main/notebooks/iris-data-for-beginners.ipynb) notebook.
+The code cells below are included in the original `iris-data-for-beginners.ipynb` notebook in the module's [notebooks folder on GitHub](https://github.com/universitysjp/introduction-to-machine-learning/tree/main/notebooks).
 
 ```bash
 pip install seaborn scikit-learn numpy

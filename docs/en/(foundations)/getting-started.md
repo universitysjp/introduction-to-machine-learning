@@ -20,9 +20,10 @@ Quick setup (pip)
 3) Start Jupyter: `jupyter notebook`
 
 First notebooks
-- Intro to Jupyter: [read the code below](#intro-notebook-code) · [open the notebook](https://github.com/universitysjp/introduction-to-machine-learning/blob/main/notebooks/intro.ipynb)
-- Data cleaning (Iris): [data-cleaning.ipynb](https://github.com/universitysjp/introduction-to-machine-learning/blob/main/notebooks/data-cleaning.ipynb)
-- Classification on Iris: [iris-data-for-beginners.ipynb](https://github.com/universitysjp/introduction-to-machine-learning/blob/main/notebooks/iris-data-for-beginners.ipynb)
+- Intro to Jupyter: [read the code below](#intro-notebook-code)
+- Data cleaning (Iris): follow the [Data Preprocessing lesson](./data-preprocessing)
+- Classification on Iris: follow the [Classification lesson](./classification)
+- To run the original notebooks, open the module's [notebooks folder on GitHub](https://github.com/universitysjp/introduction-to-machine-learning/tree/main/notebooks)
 
 Datasets
 - Small CSVs live in data/
@@ -36,7 +37,7 @@ Next steps
 
 ## Intro notebook code
 
-The code cells below are also available in the original [intro.ipynb](https://github.com/universitysjp/introduction-to-machine-learning/blob/main/notebooks/intro.ipynb) notebook.
+The code cells below are included in the original `intro.ipynb` notebook in the module's [notebooks folder on GitHub](https://github.com/universitysjp/introduction-to-machine-learning/tree/main/notebooks).
 
 ```python
 print("Hello World!")

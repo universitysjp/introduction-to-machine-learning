@@ -25,4 +25,4 @@ Learn machine learning fundamentals through short topic guides, beginner-friendl
 
 ## Hands-on work
 
-The notebooks and datasets live in the [module repository](https://github.com/universitysjp/introduction-to-machine-learning). Open the notebooks there to run each exercise.
+The lessons include the code for each exercise. To run the original notebooks or browse the datasets, visit the [module repository](https://github.com/universitysjp/introduction-to-machine-learning).
