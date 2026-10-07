@@ -2,8 +2,6 @@
 title: "Classification"
 ---
 
-# Classification
-
 Use the classic Iris dataset to practice classification end-to-end.
 
 What you'll learn

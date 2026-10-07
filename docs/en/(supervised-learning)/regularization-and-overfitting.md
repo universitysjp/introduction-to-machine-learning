@@ -2,8 +2,6 @@
 title: "Regularization and Overfitting"
 ---
 
-# Regularization and Overfitting
-
 Coming soon.
 
 Planned

@@ -1,8 +1,6 @@
 ---
-title: "Unsupervised Learning"
+title: "Unsupervised Learning Methods"
 ---
-
-# Unsupervised Learning
 
 Coming soon.
 

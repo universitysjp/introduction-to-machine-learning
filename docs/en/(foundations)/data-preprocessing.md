@@ -2,8 +2,6 @@
 title: "Data Preprocessing"
 ---
 
-# Data Preprocessing
-
 Learn the basics of cleaning and preparing data before modeling.
 
 What you'll learn

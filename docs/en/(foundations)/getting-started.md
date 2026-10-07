@@ -2,8 +2,6 @@
 title: "Getting Started"
 ---
 
-# Getting Started
-
 Goal: set up your environment and run your first notebooks in this repo.
 
 What you'll learn
