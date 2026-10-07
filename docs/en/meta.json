@@ -1,0 +1,13 @@
+{
+  "title": "Introduction to Machine Learning",
+  "pages": [
+    "index",
+    "getting-started",
+    "data-preprocessing",
+    "classification",
+    "trees-and-ensembles",
+    "unsupervised-learning",
+    "regularization-and-overfitting",
+    "regression"
+  ]
+}

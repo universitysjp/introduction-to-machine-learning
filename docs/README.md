@@ -1,11 +1,3 @@
-# Docs
+# Introduction to Machine Learning documentation
 
-Topic-focused guides.
-
-- Getting Started: getting-started.md
-- Data Preprocessing: data-preprocessing.md
-- Classification: classification.md
-- Trees & Ensembles: trees-and-ensembles.md
-- Unsupervised Learning: unsupervised-learning.md
-- Regularization & Overfitting: regularization-and-overfitting.md
-- Regression: regression.md
+English lessons live in the en folder. Navigation order is defined in en/meta.json.

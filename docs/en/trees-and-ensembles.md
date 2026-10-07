@@ -1,3 +1,7 @@
+---
+title: "Trees and Ensembles"
+---
+
 # Trees and Ensembles
 
 Coming soon.

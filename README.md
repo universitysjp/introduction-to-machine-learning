@@ -16,10 +16,10 @@ Beginner-friendly notebooks and topic pages to learn ML hands-on.
 
 ## Learning path (Beginner)
 
-- Getting started: docs/getting-started.md
-- Data preprocessing: docs/data-preprocessing.md → notebooks/data-cleaning.ipynb
-- Classification (Iris): docs/classification.md → notebooks/iris-data-for-beginners.ipynb
-- Next topics: docs/trees-and-ensembles.md, docs/unsupervised-learning.md, docs/regularization-and-overfitting.md, docs/regression.md
+- Getting started: docs/en/getting-started.md
+- Data preprocessing: docs/en/data-preprocessing.md → notebooks/data-cleaning.ipynb
+- Classification (Iris): docs/en/classification.md → notebooks/iris-data-for-beginners.ipynb
+- Next topics: docs/en/trees-and-ensembles.md, docs/en/unsupervised-learning.md, docs/en/regularization-and-overfitting.md, docs/en/regression.md
 
 ## Repository structure
 
